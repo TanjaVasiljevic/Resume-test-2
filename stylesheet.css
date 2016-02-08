@@ -1,0 +1,43 @@
+#header { 
+    color: black;
+    text-decoration: bold;
+    font-family: Courier;
+    position: fixed;
+    font-size: 26px;
+    height: 40px;
+    background-color: gray;
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    font-weight: bold
+}
+
+.left {
+    color: black;
+    font-size: 16px
+    font-family: Garamond;
+    text-decoration: italic;
+    height:300px;
+    width: 150px;
+    background-color: #b3ffb3;
+    float: left;
+}
+
+.right {
+    font-size: 10px
+    font-family: Garamond;
+    text-decoration: italic;
+    height: 300px;
+    width: 228px;
+    background-color:  #e5ffe5;
+    float: right;
+}
+
+#footer {
+    height: 20px;
+    font-size: 12px;
+    text-align: center;
+    background-color: gray;
+    position: absolute, relative;
+    clear: both;
+}
